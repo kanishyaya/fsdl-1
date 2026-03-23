@@ -1,0 +1,19 @@
+/* External CSS */
+body {
+    font-family: Arial;
+}
+
+/* Tag selector */
+p {
+    color: gray;
+}
+
+/* Class selector */
+.container {
+    margin-top: 20px;
+}
+
+/* ID selector */
+#main-title {
+    font-weight: bold;
+}
